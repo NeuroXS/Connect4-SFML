@@ -1,0 +1,67 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio files
+.vs/
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+ipch/
+obj/
+out/
+
+# Build artifacts
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.exp
+
+# Miscellaneous
+*.log
+*.tlog
+*.lastbuildstate
+*.idb
+*.ipdb
+*.opendb
+*.res
+*.ncb
+*.db
+
