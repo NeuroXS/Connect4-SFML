@@ -1,3 +1,3 @@
 # Connect4-SFML
 
- ![Project Cover](connect4.png)
+ ![Project Cover](Connect4.png)
